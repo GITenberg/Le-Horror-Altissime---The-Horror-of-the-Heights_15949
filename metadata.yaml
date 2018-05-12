@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/69
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
 description: 'Translation of: The Horror of the Heights'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15949#Le-Horror-Altissime---The-Horror-of-the-Heights
 gutenberg_issued: '2005-05-31'
 gutenberg_type: Text
 identifiers:
